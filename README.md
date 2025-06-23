@@ -3,10 +3,15 @@ This project showcases a complete Business Intelligence and Data Mining solution
 
 🔍 Project Overview
 We designed an end-to-end BI pipeline, including:
+
 ETL processing with SQL Server Integration Services (SSIS)
+
 Data modeling with star schema and OLAP cube using SSAS
+
 Interactive reporting via Power BI and MDX queries
+
 Predictive modeling with Random Forest and CNN to forecast product returns
+
 This project helps retail businesses uncover hidden patterns, reduce return rates, and improve customer satisfaction through actionable insights.
 
 Dataset
